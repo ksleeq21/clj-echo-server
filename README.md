@@ -4,6 +4,7 @@ Ping and echo your request.
 
 ## Usage
 
+Install dependencies using the command `lein deps`.
 Launch the application using the command `lein run`.
 
 Once the application has started, visit the following URLs via
