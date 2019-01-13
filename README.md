@@ -9,8 +9,8 @@ Launch the application using the command `lein run`.
 Once the application has started, visit the following URLs via
 a browser or cURL:
 
-* <localhost:8080/hello>
-* <localhost:8080/hello?name=You>
+* <localhost:8080/ping>
+* <localhost:8080/echo?message=hello>
 
 For example:
 
