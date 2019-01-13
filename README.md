@@ -1,6 +1,6 @@
-# echo-server
+# Clojure echo-server
 
-Clojure echo/ping server.
+Ping and echo your request.
 
 ## Usage
 
